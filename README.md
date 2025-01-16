@@ -4,8 +4,8 @@
 ```javascript
 const IronNathan = {
   code: ["JavaScript", "VBScript", "Power Automate", "Python"],
-  tools: ["Power Automate Desktop", "PixieBrix", "AI Builder"],
-  hobbies: ["exploring new tech", "building automation workflows", "Iron Man fandom"],
+  tools: ["Power Automate (Cloud & Desktop)", "Power Apps", "PixieBrix", "AI Builder","Automation Anywhere","BotCity","UiPath","Fabric","Copilot"],
+  hobbies: ["exploring new tech", "building automation workflows", "Iron Man fandom","learning new foreign languages"],
   learning: ["Canvas Apps", "AI integration", "JavaScript DOM manipulation", "PixieBrix + AI Certification"]
 }
 ```
