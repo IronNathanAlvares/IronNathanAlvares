@@ -50,16 +50,16 @@ const IronNathan = {
 <h3 align="left">Database:</h3>
 <p align="left"> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/download/303229/microsoft-sql-server-logo.svg" alt="sql server" width="40" height="40"/> 
+  <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png" alt="sql server" width="60" height="50"/> 
 </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://banner2.cleanpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-1713949532588.webp" alt="mysql" width="100" height="40"/> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="Go to MySQL official website"> 
+  <img src="https://banner2.cleanpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-1713949532588.webp" alt="mysql" width="50" height="40"/> 
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
   <img src="https://icon2.cleanpng.com/20180821/ebc/6cb2e3c65a3d6d0c0640ae388b42a62a.webp" alt="postgresql" width="40" height="40"/> 
 </a>
 <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle sql" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_oracle.jpg" alt="oracle sql" width="50" height="40"/> 
 </a>
  </p>
 
@@ -106,7 +106,7 @@ const IronNathan = {
   <img src="https://upload.wikimedia.org/wikipedia/en/8/80/UiPath_2019_Corporate_Logo.png" alt="uipath" width="100" height="40"/> 
 </a>
 <a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://seekvectorlogo.com/wp-content/uploads/2022/01/automation-anywhere-vector-logo-2022.png](https://www.automationanywhere.com/sites/default/files/images/open-graph-default1_en.jpg" alt="automation anywhere" width="100" height="40"/> 
+  <img src="https://www.automationanywhere.com/sites/default/files/images/open-graph-default1_en.jpg" alt="automation anywhere" width="100" height="40"/> 
 </a>
 </p>
 
@@ -119,7 +119,7 @@ const IronNathan = {
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://logo.svgcdn.com/d/bootstrap-original-wordmark-8x.png" alt="bootstrap" width="40" height="40"/> 
   </a> 
   </p>
 
