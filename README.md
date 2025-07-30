@@ -106,7 +106,7 @@ const IronNathan = {
   <img src="https://upload.wikimedia.org/wikipedia/en/8/80/UiPath_2019_Corporate_Logo.png" alt="uipath" width="100" height="40"/> 
 </a>
 <a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://seekvectorlogo.com/wp-content/uploads/2022/01/automation-anywhere-vector-logo-2022.png" alt="automation anywhere" width="100" height="40"/> 
+  <img src="https://seekvectorlogo.com/wp-content/uploads/2022/01/automation-anywhere-vector-logo-2022.png](https://www.automationanywhere.com/sites/default/files/images/open-graph-default1_en.jpg" alt="automation anywhere" width="100" height="40"/> 
 </a>
 </p>
 
