@@ -53,10 +53,10 @@ const IronNathan = {
   <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png" alt="sql server" width="60" height="50"/> 
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="Go to MySQL official website"> 
-  <img src="https://banner2.cleanpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-1713949532588.webp" alt="mysql" width="50" height="40"/> 
+  <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="mysql" width="50" height="40"/> 
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://icon2.cleanpng.com/20180821/ebc/6cb2e3c65a3d6d0c0640ae388b42a62a.webp" alt="postgresql" width="40" height="40"/> 
+  <img src="https://p7.hiclipart.com/preview/358/849/109/postgresql-clip-art-database-logo-database-symbol.jpg" alt="postgresql" width="40" height="40"/> 
 </a>
 <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_oracle.jpg" alt="oracle sql" width="50" height="40"/> 
@@ -84,29 +84,23 @@ const IronNathan = {
   <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" alt="power automate" width="40" height="40"/> 
 </a>
+<a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.automationanywhere.com/sites/default/files/images/open-graph-default1_en.jpg" alt="automation anywhere" width="100" height="40"/> 
+</a>
+<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/80/UiPath_2019_Corporate_Logo.png" alt="uipath" width="100" height="40"/> 
+</a>
 <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://img.icons8.com/fluent/200/microsoft-power-apps-2020.png" alt="power apps" width="40" height="40"/> 
 </a>
 <a href="https://powerautomate.microsoft.com/en-us/ai-builder/" target="_blank" rel="noreferrer"> 
   <img src="https://prakashinfotech.com/wp-content/uploads/2023/08/ai-builder-logo.png" alt="ai builder" width="40" height="40"/> 
 </a>
-  <a href="https://www.microsoft.com/en-us/fabric" target="_blank" rel="noreferrer"> 
-  <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" alt="fabric" width="40" height="40"/> 
-</a>
-<a href="https://learn.microsoft.com/en-us/copilot/" target="_blank" rel="noreferrer"> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjmJajFJdxJlZcy2iVli5r3CcFD6C2T1qQoA&s" alt="copilot" width="40" height="40"/> 
-</a>
-  <a href="https://www.pixiebrix.com/" target="_blank" rel="noreferrer"> 
+<a href="https://www.pixiebrix.com/" target="_blank" rel="noreferrer"> 
   <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEx7-K-dppBVg/company-logo_200_200/company-logo_200_200/0/1692665200822/pixiebrix_logo?e=2147483647&v=beta&t=c-WBxS7cUDLZCc8P8z9X5dnjotsm6h6uDPW6M7257p4" alt="pixiebrix" width="40" height="40"/> 
 </a>
 <a href="https://botcity.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEbkeF_cuxbiw/company-logo_200_200/company-logo_200_200/0/1728305050580/botcity_logo?e=2147483647&v=beta&t=soUYqsFV28bfZGctapzJDrKL-wUEzWWmcCJjuRAWtZ8" alt="botcity" width="40" height="40"/> 
-</a>
-<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/80/UiPath_2019_Corporate_Logo.png" alt="uipath" width="100" height="40"/> 
-</a>
-<a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.automationanywhere.com/sites/default/files/images/open-graph-default1_en.jpg" alt="automation anywhere" width="100" height="40"/> 
 </a>
 </p>
 
@@ -118,9 +112,6 @@ const IronNathan = {
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://logo.svgcdn.com/d/bootstrap-original-wordmark-8x.png" alt="bootstrap" width="40" height="40"/> 
-  </a> 
   </p>
 
 <h3 align="left">Support:</h3>
