@@ -130,7 +130,7 @@ class IronNathan {
 ## 🎵 STARK WORKSHOP SOUNDTRACK:
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yghpqld2aipziwywpu5pbqvhia&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=dc143c&bar_color_cover=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0mqpabz0gml0vlzqqc4s5sbq1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=dc143c&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
 
 <p align="center"><i>"You know, it's times like these when I realize what a superhero I am." - Tony Stark</i></p>
