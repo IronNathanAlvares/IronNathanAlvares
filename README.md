@@ -84,19 +84,17 @@ class IronNathan {
 
 ## 🏆 STARK INDUSTRIES ACHIEVEMENTS
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IronNathanAlvares&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IronNathanAlvares&theme=algolia&column=7" alt="trophy" />
 </p>
 
 ## 🔴 ARC REACTOR POWER LEVELS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IronNathanAlvares&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=DC143C&icon_color=FFD700&text_color=FFFFFF&border_color=DC143C" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IronNathanAlvares&theme=radical&hide_border=false&background=0D1117&stroke=DC143C&ring=FFD700&fire=DC143C&currStreakLabel=FFD700&border=DC143C" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IronNathanAlvares&theme=dark&hide_border=false&background=0D1117&stroke=DC143C&ring=FFD700&fire=DC143C&currStreakLabel=FFD700" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronNathanAlvares&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&border_color=FFD700" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IronNathanAlvares&theme=react-dark&bg_color=0D1117&color=FFD700&line=DC143C&point=FFD700&area=true&hide_border=false" height="170" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IronNathanAlvares&theme=react-dark&bg_color=0D1117&color=FFD700&line=DC143C&point=FFD700&area=true" height="170" alt="Contribution Graph"/>
 </div>
 
 <br/>
