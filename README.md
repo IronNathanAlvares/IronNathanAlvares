@@ -130,15 +130,15 @@ class IronNathan {
 ## 🎵 STARK WORKSHOP SOUNDTRACK:
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0mqpabz0gml0vlzqqc4s5sbq1&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=dc143c&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0mqpabz0gml0vlzqqc4s5sbq1&cover_image=true&theme=compact&show_offline=false&background_color=1a0000&interchange=false&bar_color=dc143c&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
 
-<p align="center"><i>"You know, it's times like these when I realize what a superhero I am." - Tony Stark</i></p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" alt="Spotify"/>
-  <img src="https://img.shields.io/badge/Powered_by-Arc_Reactor-DC143C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNGRkQ3MDAiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI2IiBmaWxsPSIjREMxNDNDIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==&labelColor=0d1117" alt="Arc Reactor"/>
+  <img src="https://img.shields.io/badge/🎵_Listening_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=DC143C" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/⚡_Powered_by-Arc_Reactor-FFD700?style=for-the-badge&labelColor=DC143C" alt="Arc Reactor"/>
 </p>
+
+<p align="center"><i>"You know, it's times like these when I realize what a superhero I am." - Tony Stark</i></p>
 
 <br/>
 
