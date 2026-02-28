@@ -83,8 +83,12 @@ class IronNathan {
 ---
 
 ## 🏆 STARK INDUSTRIES ACHIEVEMENTS
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IronNathanAlvares&theme=algolia&column=7" alt="trophy" />
+  <img src="https://img.shields.io/badge/🚀_Projects-Building-DC143C?style=for-the-badge&logo=github" alt="Projects"/>
+  <img src="https://img.shields.io/badge/⚡_Contributions-Active-FFD700?style=for-the-badge&logo=github" alt="Contributions"/>
+  <img src="https://img.shields.io/badge/🤖_Expertise-RPA_AI-DC143C?style=for-the-badge&logo=robot" alt="Expertise"/>
+  <img src="https://img.shields.io/badge/💻_Code-JavaScript_Python-FFD700?style=for-the-badge&logo=code" alt="Code"/>
 </p>
 
 ## 🔴 ARC REACTOR POWER LEVELS
