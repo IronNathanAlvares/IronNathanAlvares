@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Nathan+L.+Alvares;%F0%9F%A6%BE+IRON+NATHAN+PROTOCOLS+ACTIVATED+%F0%9F%A6%BE;RPA+%2F+AI+Developer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Automation+Architect+%E2%9A%A1;Powered+by+Arc+Reactor+Tech+%F0%9F%94%B4" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🔴 A passionate self-taught RPA/AI developer and machine learning enthusiast 🔴</h3>
+<h3 align="center">🔴 A passionate self-taught machine learning enthusiast 🔴</h3>
 <h4 align="center">🦾 "I am Iron Nathan" - Building the Future, One Automation at a Time 🦾</h4>
 
 <table align="center">
