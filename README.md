@@ -192,7 +192,7 @@ class IronNathan {
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://media.lordicon.com/icons/wired/gradient/1324-c-code-language.gif" alt="cplusplus" width="40" height="40"/> 
   </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/userupload/18586614/file/original-9625d0dcbb3637317ba8ce9839a29f02.gif" width="40" height="40"/> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://media.lordicon.com/icons/wired/gradient/1321-html-5-code-language.gif" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://media.tenor.com/80QPiB4JMLMAAAAM/logo.gif" alt="css3" width="40" height="40"/> 
