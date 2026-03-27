@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,24,1&height=200&section=header&text=Nathan%20L.%20Alvares&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFD700" />
   
-  <marquee behavior="scroll" direction="right" scrollamount="10">
-    <img src="./images/iron-man-flying.gif" width="86" alt="Iron Man Fly-By" />
-  </marquee>
+  <img src="./images/iron-man-flying.gif" width="86" alt="Iron Man Fly-By" />
   
   <h2>⚡ JARVIS SYSTEM ONLINE ⚡</h2>
   <p><i>"Sometimes you gotta run before you can walk." - Tony Stark</i></p>
