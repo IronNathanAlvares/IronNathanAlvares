@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="./images/jarvis-hud.gif" width="330" alt="JARVIS HUD" />
-  <p><b>🧠 JARVIS UNFILTERED:</b> "Sir... clip that."</p>
+  <p><b>🧠 JARVIS UNFILTERED:</b> "Sir... clip that SH!T."</p>
   <p><i>System Log: Humor protocol enabled. Mission focus remains at 100%.</i></p>
 </div>
 
@@ -20,7 +20,7 @@
 </h1>
 
 <h3 align="center">🔴 A passionate self-taught RPA/AI developer and machine learning enthusiast 🔴</h3>
-<h4 align="center">🦾 "I am Iron Man" - Building the Future, One Automation at a Time 🦾</h4>
+<h4 align="center">🦾 "I am Iron Nathan" - Building the Future, One Automation at a Time 🦾</h4>
 
 <table align="center">
   <tr>
