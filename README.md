@@ -1,18 +1,46 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,24,1&height=200&section=header&text=Nathan%20L.%20Alvares&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFD700" />
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <marquee behavior="scroll" direction="right" scrollamount="10">
+    <img src="./images/iron-man-flying.gif" width="86" alt="Iron Man Fly-By" />
+  </marquee>
   
   <h2>⚡ JARVIS SYSTEM ONLINE ⚡</h2>
   <p><i>"Sometimes you gotta run before you can walk." - Tony Stark</i></p>
 </div>
 
+<div align="center">
+  <img src="./images/jarvis-hud.gif" width="330" alt="JARVIS HUD" />
+  <p><b>🧠 JARVIS UNFILTERED:</b> "Sir... clip that."</p>
+  <p><i>System Log: Humor protocol enabled. Mission focus remains at 100%.</i></p>
+</div>
+
+<br/>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Nathan+L.+Alvares;RPA+%2F+AI+Developer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Automation+Architect+%E2%9A%A1;Powered+by+Arc+Reactor+Tech+%F0%9F%94%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Nathan+L.+Alvares;%F0%9F%A6%BE+IRON+NATHAN+PROTOCOLS+ACTIVATED+%F0%9F%A6%BE;RPA+%2F+AI+Developer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Automation+Architect+%E2%9A%A1;Powered+by+Arc+Reactor+Tech+%F0%9F%94%B4" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🔴 A passionate self-taught RPA/AI developer and machine learning enthusiast 🔴</h3>
 <h4 align="center">🦾 "I am Iron Man" - Building the Future, One Automation at a Time 🦾</h4>
+
+<table align="center">
+  <tr>
+    <td align="center" width="52%">
+      <img src="./images/iron-man-flying.gif" width="210" alt="Iron Man Flight Mode" />
+    </td>
+    <td align="left" width="48%">
+      <h3>🔴 FLIGHT MODE: MARK LXXXV</h3>
+      <p><b>Core Systems:</b> RPA • AI • Automation Architecture</p>
+      <p><b>Power Source:</b> Arc Reactor + Curiosity + Consistency</p>
+      <p><b>Mission:</b> Build practical AI and automation that saves real time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ARC_REACTOR-ONLINE-DC143C?style=for-the-badge" alt="Arc Reactor Online" />
+        <img src="https://img.shields.io/badge/SUIT_STATUS-ARMORED-FFD700?style=for-the-badge" alt="Suit Status" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -94,6 +122,17 @@ class IronNathan {
 ## 🔴 ARC REACTOR POWER LEVELS
 
 <div align="center">
+  <img src="./images/jarvis-arc-reactor-outline.gif" width="140" alt="Arc Reactor Core" />
+  <img src="./images/jarvis-arc-reactor-outer-outline.gif" width="140" alt="Arc Reactor Outer Ring" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CORE-STABLE-DC143C?style=for-the-badge" alt="Core Stable" />
+  <img src="https://img.shields.io/badge/SUIT_LINK-ACTIVE-FFD700?style=for-the-badge" alt="Suit Link Active" />
+  <img src="https://img.shields.io/badge/THREAT_SCAN-RUNNING-DC143C?style=for-the-badge" alt="Threat Scan Running" />
+</p>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IronNathanAlvares&theme=dark&hide_border=false&background=0D1117&stroke=DC143C&ring=FFD700&fire=DC143C&currStreakLabel=FFD700" alt="GitHub Streak" height="170"/>
 </div>
 
@@ -107,6 +146,11 @@ class IronNathan {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/IronNathanAlvares/IronNathanAlvares/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="./images/jarvis-hud.gif" width="250" alt="JARVIS Clip Moment" />
+  <p><i>"JARVIS: Sir, that streak was clean. Clip saved."</i></p>
 </div>
 
 <br/>
@@ -150,24 +194,24 @@ class IronNathan {
 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    <img src="https://basitdurrani-portfolio.netlify.app/images/nmuax05zxoab1.gif" alt="c" width="40" height="50"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://media.lordicon.com/icons/wired/gradient/1324-c-code-language.gif" alt="cplusplus" width="40" height="40"/> 
   </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/userupload/18586614/file/original-9625d0dcbb3637317ba8ce9839a29f02.gif" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://media.tenor.com/80QPiB4JMLMAAAAM/logo.gif" alt="css3" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycTN6MnlscTc1a2d3dWJkaDRnejNhbXk2bGF5Y2lnbDB0dWEyZHNndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvFocn0wNMx0iv2rYz/200w.gif" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" alt="linux" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://i.redd.it/n5x7d90skhhc1.gif" alt="python" width="40" height="40"/> 
   </a> 
 </p>
 
