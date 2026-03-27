@@ -121,11 +121,6 @@ class IronNathan {
 
 ## 🔴 ARC REACTOR POWER LEVELS
 
-<div align="center">
-  <img src="./images/jarvis-arc-reactor-outline.gif" width="140" alt="Arc Reactor Core" />
-  <img src="./images/jarvis-arc-reactor-outer-outline.gif" width="140" alt="Arc Reactor Outer Ring" />
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/CORE-STABLE-DC143C?style=for-the-badge" alt="Core Stable" />
   <img src="https://img.shields.io/badge/SUIT_LINK-ACTIVE-FFD700?style=for-the-badge" alt="Suit Link Active" />
